@@ -1,0 +1,43 @@
+.button {
+  font-size: 24px;
+  font-weight: 400;
+  padding: 20px 48px;
+  border-radius: 40px;
+}
+
+.buttonCtv {
+  background-color: #034078;
+  color: white;
+  border: 2px solid #1282A2;
+  transition: background-color 0.5s;
+  &:hover {
+    background-color: #FEFCFB;
+    color: #0A1128;
+    opacity: 1;
+  }
+  &:active {
+    background-color: #0A1128;
+    color: #FEFCFB;
+  }
+}
+
+.buttonReset {
+  background-color: #FEFCFB;
+  color: #001F54;
+  border: 2px solid #1282A2;
+}
+
+.buttonSubmit {
+  background-color: #034078;
+  color: #FEFCFB;
+  border: 2px solid #FEFCFB;
+}
+
+.closeButton {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 32px;
+  color: #557eff;
+  border: none;
+}

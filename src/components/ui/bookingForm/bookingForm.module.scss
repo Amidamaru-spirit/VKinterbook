@@ -1,0 +1,16 @@
+.form {
+  position: relative;
+}
+
+.space__form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading {
+  text-align: center;
+  padding: 16px;
+  border-bottom: 2px solid #fec7ff;
+  margin-bottom: 32px;
+}
