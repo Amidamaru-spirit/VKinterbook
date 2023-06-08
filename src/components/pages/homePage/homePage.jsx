@@ -33,7 +33,7 @@ const HomePage = () => {
               rel="noopener noreferrer"
               href="https://internship.vk.company/vacancy/632"
             >
-              Стажировка VK
+             Бронирование переговорной
             </a>
           </h3>
 
