@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/VKinterbook/static/css/main.716ac699.css",
-    "main.js": "/VKinterbook/static/js/main.e39c44e6.js",
-    "static/media/background.png": "/VKinterbook/static/media/background.288527809648a985ba35.png",
-    "static/media/plus.svg": "/VKinterbook/static/media/plus.6e91423e96a8ac63c552ba13a62d9573.svg",
-    "static/media/minus.svg": "/VKinterbook/static/media/minus.6f15b43079ac515e6874687aa29059c5.svg",
-    "index.html": "/VKinterbook/index.html",
-    "main.716ac699.css.map": "/VKinterbook/static/css/main.716ac699.css.map",
-    "main.e39c44e6.js.map": "/VKinterbook/static/js/main.e39c44e6.js.map"
+    "main.css": "/interbook/static/css/main.7fafcfa4.css",
+    "main.js": "/interbook/static/js/main.d878e853.js",
+    "static/media/background.png": "/interbook/static/media/background.288527809648a985ba35.png",
+    "static/media/plus.svg": "/interbook/static/media/plus.8f28daaf459d73ed5db8979f22b2a233.svg",
+    "static/media/minus.svg": "/interbook/static/media/minus.089a3d50f9738f6697a79afb95988bb3.svg",
+    "index.html": "/interbook/index.html",
+    "main.7fafcfa4.css.map": "/interbook/static/css/main.7fafcfa4.css.map",
+    "main.d878e853.js.map": "/interbook/static/js/main.d878e853.js.map"
   },
   "entrypoints": [
-    "static/css/main.716ac699.css",
-    "static/js/main.e39c44e6.js"
+    "static/css/main.7fafcfa4.css",
+    "static/js/main.d878e853.js"
   ]
 }
